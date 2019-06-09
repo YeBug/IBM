@@ -34,6 +34,7 @@ def read_file(file_path):
 
 
 def write_file(file_name, obj):
+    # path = 'D:\program\IBM\data_files/'+file_name
     path = os.path.join(constant.data_files_path, file_name)
     with open(path, 'w')as f:
         for line in obj:

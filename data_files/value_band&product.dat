@@ -1,0 +1,61 @@
+Product,ValueBand,RECORD_COUNT
+1,high,3739
+1,low,1334
+1,medium,2991
+1,medium high,2770
+1,medium low,2124
+2,high,3868
+2,low,1403
+2,medium,3088
+2,medium high,2896
+2,medium low,2167
+3,high,3782
+3,low,1374
+3,medium,3064
+3,medium high,2806
+3,medium low,2145
+4,high,3787
+4,low,1332
+4,medium,3020
+4,medium high,2818
+4,medium low,2095
+5,high,1923
+5,low,1309
+5,medium,3641
+5,medium high,1968
+5,medium low,2959
+6,high,1939
+6,low,1321
+6,medium,3694
+6,medium high,2000
+6,medium low,2953
+7,high,1897
+7,low,1310
+7,medium,3676
+7,medium high,2062
+7,medium low,2926
+8,high,2767
+8,low,1229
+8,medium,3723
+8,medium high,2475
+8,medium low,2583
+9,high,3014
+9,low,1167
+9,medium,3737
+9,medium high,2599
+9,medium low,2570
+10,high,3034
+10,low,1241
+10,medium,3767
+10,medium high,2690
+10,medium low,2602
+11,high,1931
+11,low,2283
+11,medium,2420
+11,medium high,1742
+11,medium low,3269
+12,high,1841
+12,low,2228
+12,medium,2259
+12,medium high,1656
+12,medium low,3203
